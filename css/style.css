@@ -9,6 +9,7 @@ body {
 	background-size: cover;
 	font-family: 'Roboto', sans-serif;
 	padding: 20px;
+	overflow-y:hidden!important;
 }
 
 #content {
